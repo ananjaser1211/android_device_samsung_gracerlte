@@ -20,7 +20,7 @@ Add to `.repo/local_manifests/gracerlte.xml`:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="ananjaser1211/android_device_samsung_hero" path="device/samsung/gracerlte" remote="github" revision="gracerlte" />
+  <project name="ananjaser1211/android_device_samsung_gracerlte" path="device/samsung/gracerlte" remote="github" revision="gracerlte" />
 </manifest>
 ```
 
