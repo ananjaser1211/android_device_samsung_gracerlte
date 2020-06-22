@@ -21,6 +21,7 @@ Add to `.repo/local_manifests/gracerlte.xml`:
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="ananjaser1211/android_device_samsung_gracerlte" path="device/samsung/gracerlte" remote="github" revision="gracerlte" />
+  <project path="external/busybox" name="android_external_busybox" remote="TeamWin" revision="android-9.0" />
 </manifest>
 ```
 
